@@ -1,0 +1,8 @@
+html,
+body {
+  background-color: black;
+  color: black;
+  font-family: "Russo One", sans-serif;
+  font-size: 1.2rem;
+  overflow: hidden;
+}
